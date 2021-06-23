@@ -1,0 +1,15 @@
+.leftmenubutton {
+    display: flex;
+    align-items: center;
+    padding: 13px 10px;
+    border-bottom: 1px solid rgb(255, 232, 31);
+    color: black;
+    position: relative;
+  }
+
+  .leftmenubutton img {
+    color: #dee4ec;
+    width: 20px;
+    height: 20px;
+    padding-right: 10px;
+  }

@@ -1,0 +1,24 @@
+.App .leftMenu {
+  background: lemonchiffon;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 225px;
+  height: 100%;
+  padding: 20px 0;
+  transition: all 0.5s ease;
+}
+
+.App .leftMenu .logo {
+  margin-bottom: 30px;
+  text-align: center;
+  /* background-color: black; */
+}
+
+.App .leftMenu .logo img {
+  display: block;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  border-radius: 50%;
+}
