@@ -65,8 +65,16 @@ label #btn {
     transition: 0.4s;
 }
 
+.sidebar ul li:hover span {
+    padding-left: 50px;
+}
+
 .slim ul li:hover span {
     padding-left: 30px;
+}
+
+li {
+    cursor: pointer;
 }
 
 .sidebar {
@@ -133,3 +141,4 @@ label #btn {
 .sidebar ul span i {
     margin-right: 16px;
 }
+

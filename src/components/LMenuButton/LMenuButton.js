@@ -11,7 +11,7 @@ import './LMenuButton.css'
 const LMenuButton = () => {
     return (
         <div className='leftmenubutton'>
-            <img src={Icons.home} alt='car logo'></img>
+            <img className='white' src={Icons.home} alt='car logo'></img>
             <p className="item">Home</p> 
         </div>
     )

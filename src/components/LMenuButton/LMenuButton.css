@@ -13,3 +13,13 @@
     height: 20px;
     padding-right: 10px;
   }
+
+.leftmenubutton img {
+  fill: white;
+}
+
+.white {
+  filter: invert(80%) sepia(84%) saturate(1269%) hue-rotate(354deg) brightness(91%) contrast(82%);
+}
+
+/* https://codepen.io/sosuke/pen/Pjoqqp */
