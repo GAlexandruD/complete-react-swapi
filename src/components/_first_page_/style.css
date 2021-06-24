@@ -47,7 +47,7 @@ label #btn {
 }
 
 .emptyspace {
-    height: 157px;
+    height: 237px;
     background: #063146;
 }
 
@@ -122,6 +122,10 @@ li {
     background: #063146;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     user-select: none;
+}
+
+.sidebar header p {
+    padding: 40px;
 }
 
 .sidebar ul span {

@@ -1,5 +1,5 @@
 .App .leftMenu {
-  background: lemonchiffon;
+  background: black;
   position: fixed;
   top: 0;
   left: 0;
@@ -10,9 +10,10 @@
 }
 
 .App .leftMenu .logo {
-  margin-bottom: 30px;
+  padding-bottom: 30px;
   text-align: center;
-  /* background-color: black; */
+  color: rgb(255, 232, 31);
+  border-bottom: 1px solid rgb(255, 232, 31);
 }
 
 .App .leftMenu .logo img {
@@ -21,4 +22,8 @@
   height: 100px;
   margin: 0 auto;
   border-radius: 50%;
+}
+
+div .logo {
+  border-bottom: 1px solid rgb(255, 232, 31);
 }

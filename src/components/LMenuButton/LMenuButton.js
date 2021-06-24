@@ -10,10 +10,10 @@ import './LMenuButton.css'
 
 const LMenuButton = () => {
     return (
-        <div className='leftmenubutton'>
+        <li className='leftmenubutton'>
             <img className='white' src={Icons.home} alt='car logo'></img>
             <p className="item">Home</p> 
-        </div>
+        </li>
     )
 }
 
